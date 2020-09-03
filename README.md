@@ -2,7 +2,7 @@
 
 I can make websites, discord bots, minecraft plugins, and some other stuff
 
-### Languages <>
+### Languages
 - PHP
 - JavaScript
 - HTML
