@@ -1,16 +1,17 @@
-### Hi there 👋
+# About Me
 
-<!--
-**DriedSponge/DriedSponge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I can make websites, discord bots, minecraft plugins, and some other stuff
 
-Here are some ideas to get you started:
+### Languages
+- PHP
+- JavaScript
+- HTML
+- CSS
+- Python
+- Java
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me
+[Through the contact form on my website](https://driedsponge.net/)
+[Email Me](mailto:jordan@driedsponge.net)
+[Discord](https://discord.com/invite/YS4WZWG)
