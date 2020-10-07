@@ -12,7 +12,7 @@ I can make websites, discord bots, minecraft plugins, and some other stuff
 - C#
 
 ### Contact Me ✉️
-- [Through the contact form on my website](https://driedsponge.net/)
+- [Through the contact form on my website](https://driedsponge.net/#contact-form)
 - [Email Me](mailto:jordan@driedsponge.net)
 - [Discord](https://discord.com/invite/YS4WZWG)
 
