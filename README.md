@@ -9,7 +9,6 @@ I can make websites, discord bots, minecraft plugins, and some other stuff
 - CSS
 - Python
 - Java
-- C#
 
 ### Contact Me ✉️
 - [Through the contact form on my website](https://driedsponge.net/#contact-form)
