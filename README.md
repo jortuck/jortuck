@@ -2,7 +2,7 @@
 
 I can make websites, discord bots, minecraft plugins, and some other stuff
 
-[![Jordan's Github Stats](https://github-readme-stats.vercel.app/api?username=driedsponge&include_all_commits=true&hide_border=true)](https://github.com/driedsponge/github-readme-stats)[![Jordan's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=driedsponge&layout=compact&hide_border=true&bg_color=ffffff&langs_count=10)](https://github.com/driedsponge/github-readme-stats)
+[![Jordan's Github Stats](https://github-readme-stats.vercel.app/api?username=driedsponge&include_all_commits=true&hide_border=true&layout=compact)](https://github.com/driedsponge/github-readme-stats)[![Jordan's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=driedsponge&layout=compact&hide_border=true&bg_color=ffffff&langs_count=10)](https://github.com/driedsponge/github-readme-stats)
 
 
 
