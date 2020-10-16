@@ -4,7 +4,7 @@ I can make websites, discord bots, minecraft plugins, and some other stuff
 
 ![Jordan's Github Stats](https://github-readme-stats.vercel.app/api?username=driedsponge&include_all_commits=true&hide_border=true&layout=compact)![Jordan's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=driedsponge&layout=compact&hide_border=true&bg_color=ffffff&langs_count=10)
 
-![Jordan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DriedSponge)
+[![Jordan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DriedSponge)](https://wakatime.com/@DriedSponge)
 
 
 
