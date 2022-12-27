@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/8fe91fb7-7885-47f5-b21c-f04d17d4c396.svg)](https://wakatime.com/@8fe91fb7-7885-47f5-b21c-f04d17d4c396)
+
 # About Me
 
 ### I make web apps, Mincraft mods/plugins, and discord bots. Maybe some other stuff too idk.
