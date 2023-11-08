@@ -4,15 +4,6 @@
 
 ### I make web apps, Mincraft mods/plugins, and discord bots. Maybe some other stuff too idk.
 
-### Contact Me ✉️
-- [Through the contact form on my website](https://driedsponge.net/#contact-form)
-- [Email Me](mailto:jordan@driedsponge.net)
-- Discord: **DriedSponge#4730**
-
-### Other Links 🔗
-- [My Gitlab](https://gitlab.com/DriedSponge)
-- [My Steam Profile](https://steamcommunity.com/id/driedsponge/)
-
 
 ![Jordan's Github Stats](https://stats.driedsponge.net/api?username=driedsponge&include_all_commits=true&hide_border=true&layout=compact&theme=dark&bg_color=0D1117)![Jordan's Github Stats](https://stats.driedsponge.net/api/top-langs/?username=driedsponge&layout=compact&hide_border=true&theme=dark&langs_count=10&bg_color=0D1117)
 
